@@ -1,5 +1,6 @@
 # WiFi Signal Strength Tester
-## Little device to test your WiFi signal strength.
+## A Little device to test your WiFi signal strength.
+A typical afternoon project
 ![](pictures/wifi_tester_pic%20(5).jpg)
 
 ## Features
