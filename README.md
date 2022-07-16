@@ -17,10 +17,7 @@ A typical afternoon project
 
 ## Pictures
 <p align="middle">
-  <img src="pictures/wifi_tester_pic%20(1).jpg" width="200" />
-  <img src="pictures/wifi_tester_pic%20(2).jpg" width="200" />
   <img src="pictures/wifi_tester_pic%20(3).jpg" width="200" />
   <img src="pictures/wifi_tester_pic%20(4).jpg" width="200" />
   <img src="pictures/wifi_tester_pic%20(6).jpg" width="200" />
-  <img src="pictures/wifi_tester_pic%20(7).jpg" width="200" />
 </p>
